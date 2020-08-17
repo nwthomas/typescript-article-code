@@ -1,0 +1,3 @@
+/*
+Do all of the work associated with the types section of the article here
+*/
