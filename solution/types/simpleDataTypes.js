@@ -6,7 +6,7 @@ var exampleString = "Test";
 var exampleBoolean = true;
 var exampleNull = null;
 var exampleUndefined = undefined;
-var exampleVoid = null;
+var exampleVoid = undefined;
 /**
  * Examples of TypeScript variables using type inference
  */
@@ -15,4 +15,4 @@ var exampleStringTwo = "Test";
 var exampleBooleanTwo = true;
 var exampleNullTwo = null;
 var exampleUndefinedTwo = undefined;
-var exampleVoidTwo = null;
+var exampleVoidTwo = undefined;

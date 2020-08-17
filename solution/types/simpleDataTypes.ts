@@ -11,7 +11,7 @@ const exampleNull: null = null;
 
 const exampleUndefined: undefined = undefined;
 
-const exampleVoid: void = null;
+const exampleVoid: void = undefined;
 
 /**
  * Examples of TypeScript variables using type inference
@@ -26,4 +26,4 @@ const exampleNullTwo = null;
 
 const exampleUndefinedTwo = undefined;
 
-const exampleVoidTwo = null;
+const exampleVoidTwo = undefined;
