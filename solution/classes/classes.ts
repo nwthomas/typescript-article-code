@@ -1,15 +1,22 @@
 /**
- * Examples of class types in TypeScript
+ * Example of class types in TypeScript
  */
 
-class Movie {
-  year: string;
+interface Movie {
+  year: number;
+  name: string;
+}
 
-  constructor(year: string) {
-    this.year = year;
+class Movie {
+  year: number;
+  name: string;
+
+  constructor(movie: Movie) {
+    this.year = movie.year;
+    this.name = movie.name;
   }
 
   getMovieYear() {
-    return "The movie was made in " + this.year;
+    return this.name + " was made in " + this.year;
   }
 }
