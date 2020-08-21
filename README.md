@@ -1,6 +1,6 @@
 # TYPESCRIPT ARTICLE CODE
 
-This repository contains the solution code for Nathan Thomas' article on TypeScript.
+This repository contains the solution and working code for Nathan Thomas' article on [How to Become a TypeScript Badass](https://hackernoon.com/how-to-become-a-typescript-badass-0o213e4v).
 
 ## GETTING STARTED
 
